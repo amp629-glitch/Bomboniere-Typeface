@@ -1,0 +1,71 @@
+
+body {
+	background-color: #dfb8a8;
+	display: flex;
+	justify-content: center;
+}
+
+h3 {
+	color: darkred;
+	font-size: 40px;
+}
+
+div {
+	background-color: #ad7753;
+	max-width: 1000px;
+	color: #f5ebbe;
+	font-size: 25px;
+	font-family: "bomboniere", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	text-indent: px;
+	text-align: justify;
+	word-spacing: -2px;
+	font-weight: thin;
+	padding: 20px;
+}
+
+.container {
+	width: 1000px;
+	background-color: beige;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	padding: 10px;
+	border: solid 2px;
+	margin: 20px;
+	justify-content: center;
+}
+
+.backgroundimage {
+	position: relative;
+	height: 800px;
+	width: 25ch;
+	text-align: center;
+}
+
+img {
+	width: 400px;
+}
+
+.liquorbox {
+	width: 25ch;
+}
+
+#para1 {
+	background-color: ;
+	font-size: 16px;
+	font-weight: 400;
+	position: absolute;
+	top: 400px;
+	left: 120px;
+	z-index: 5;
+	width: 22ch;
+}
+
+.paragraphs {
+	display: flex; justify-content: center;
+}
+
+
+
